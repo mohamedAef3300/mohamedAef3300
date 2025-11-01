@@ -1,16 +1,75 @@
-## Hi there 👋
+# 👨‍💻 محمد عاطف | مبرمج ويب و موبايل أبلكيشن
 
-<!--
-**mohamedAef3300/mohamedAef3300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+مرحبًا! أنا **محمد عاطف**، مبرمج ويب وتطبيقات موبايل. لدي خبرة واسعة في عدة تقنيات حديثة تشمل تطوير الويب، تطوير التطبيقات، الحوسبة السحابية، وتصميم واجهات المستخدم. إليك لمحة عن مهاراتي والأدوات التي أستخدمها في مشاريعي.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 المهارات البرمجية
+
+- **الضمائر**: `He / Him`
+- **اللغات البرمجية**: `TypeScript`, `JavaScript`, `Python`, `Dart`
+
+---
+
+## 🤔 ماذا يمكنني مساعدتك فيه؟
+
+- 🌐 **تطوير الويب** (Web Development)
+- 📱 **تطوير التطبيقات** (App Development)
+- ☁️ **الحوسبة السحابية** (Cloud Computing)
+- 🎨 **تصميم واجهات المستخدم** (UI/UX)
+- 🚀 **اتجاهات التكنولوجيا** (Tech Trends)
+
+---
+
+## 🌐 تقنيات الويب
+
+### **الواجهة الأمامية (Front-End)**
+
+- **JavaScript**: `React`, `Next.js`
+- **CSS**: `Sass`, `Tailwind`, `Bootstrap`
+- **مكتبات واجهات المستخدم**: `Material UI`, `Ant Design`, `Chakra UI`
+
+---
+
+### **الواجهة الخلفية (Back-End)**
+
+- **JavaScript**: `Node.js`, `Express`, `NestJS`
+- **Python**: `Flask`
+
+---
+
+### **تطبيقات الموبايل**
+
+- **Cross-Platform**: `Flutter`
+
+---
+
+## 🛠️ DevOps و Cloud
+
+- 🐳 **Docker** | 🔄 **CI/CD** | 🌐 **Nginx** | ⚙️ **GitHub Actions**
+- **خدمات سحابية**: 
+  - AWS: `Fargate`, `EC2`, `S3`, `Lambda`, `CloudWatch`, `RDS`
+
+---
+
+## 🗄️ قواعد البيانات
+
+- **Relational**: `PostgreSQL`, `MongoDB`
+- **NoSQL**: `SQLite`, `Firebase Realtime DB`
+- **In-memory**: `Redis`
+
+---
+
+## 🌟 تقنيات إضافية
+
+- 🔌 **Socket.IO** | 🌐 **REST APIs** | 💬 **WebSockets** | ☁️ **Cloud Functions**
+- 🤖 **ذكاء اصطناعي مولد**: `GPT`, `Vectorization`
+
+---
+
+## 📈 الهندسة المعمارية
+
+- **الواجهة الأمامية**: `SPA`, `SSR`
+- **الواجهة الخلفية**: `Microservices`, `Monolithic`, `Serverless`
+- **DevOps**: `CloudF
+
